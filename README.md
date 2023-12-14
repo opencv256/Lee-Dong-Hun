@@ -11,7 +11,7 @@
 ## :pushpin: Contact
 - 이메일: wjdgud9420@gmail.com
 - 블로그: 
-- 깃헙: [https://github.com/JungHyung2](https://github.com/2021-SMHRD-KDT-AI-15/BB)
+- 깃헙: (https://github.com/2021-SMHRD-KDT-AI-15/BB)
 
 </br>
 
