@@ -17,7 +17,8 @@
 
 ## :pushpin: Projects
 ### 1. [첫 번째 프로젝트](https://github.com/2021-SMHRD-KDT-AI-15/BB)
-> 지역 기반 심부름 서비스 부릉부름 (팀 프로젝트)  
+> 지역 기반 심부름 서비스 부릉부름 (팀 프로젝트)
+> https://github.com/opencv256/Lee-Dong-Hun/assets/118248807/519a698f-72ef-41b4-9ac3-64973166902a  
 >개발 기간: 2023.11.28 ~ 2023.12.13  
 >  
 >기술 스택:  
