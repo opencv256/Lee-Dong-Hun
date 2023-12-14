@@ -21,8 +21,8 @@
 >개발 기간: 2023.11.28 ~ 2023.12.13  
 >  
 >기술 스택:  
->Java 8 /  Gradle / Spring Data JPA / QueryDSL  
->H2 / Oracle /  Jsoup   
+>Java / Css/ Html / Servlet / Js / Jsp
+>apach tomcat/ Oracle / elipse / github / kakao api / python
 >  
 >[프로젝트 상세 설명](https://github.com/SMHRD-2021-KDT-BigData-19/dicogram.git) 참고
 
