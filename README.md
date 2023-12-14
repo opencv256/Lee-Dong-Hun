@@ -17,18 +17,18 @@
 
 ## :pushpin: Projects
 ### 1. [첫 번째 프로젝트](https://github.com/SMHRD-2021-KDT-BigData-19/dicogram.git)
->나의 프론트엔드 포트폴리오 (개인 프로젝트)  
+> 지역 기반 심부름 서비스 부릉부름 (팀 프로젝트)  
 >개발 기간: 2023.11.28 ~ 2023.12.13  
 >  
 >기술 스택:  
->Java 8 / Spring Boot / Gradle / Spring Data JPA / QueryDSL  
->H2 / MySQL / Spring Security / Jsoup / Vue.js / Element U  
+>Java 8 /  Gradle / Spring Data JPA / QueryDSL  
+>H2 / Oracle /  Jsoup   
 >  
 >[프로젝트 상세 설명](https://github.com/SMHRD-2021-KDT-BigData-19/dicogram.git) 참고
 
 ---
 
-### 2. [두 번째 프로젝트](https://github.com/JungHyung2/gitio.io)
+### 2. [두 번째 프로젝트]()
 >두 번째 프로젝트 간략 소개  (팀 프로젝트)  
 >개발 기간: 2024.02.05 ~ 2024.03.07  
 >  
@@ -36,7 +36,7 @@
 >Java 8 / Spring Boot / Gradle / Spring Data JPA / QueryDSL  
 >H2 / MySQL / Spring Security / Jsoup / Vue.js / Element U  
 >  
->[프로젝트 상세 설명](https://github.com/JungHyung2/gitio.io) 참고
+>[프로젝트 상세 설명]() 참고
 
 ---
 
