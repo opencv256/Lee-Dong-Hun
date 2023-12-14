@@ -38,7 +38,10 @@
 >
 > https://github.com/2021-SMHRD-KDT-AI-15/BB/blob/b926fb5259b2c34f9696fac865508a4eb9f3dd5d/BB/src/main/java/com/ic/model/ApplyDAO.java#L78
 >
-> 다음으로 servlet문에 해당 내용을 추가해줍니다
+> 다음으로 servlet문에 해당 DAO 메소드 내용을 추가해줍니다
+>
+> https://github.com/2021-SMHRD-KDT-AI-15/BB/blob/b926fb5259b2c34f9696fac865508a4eb9f3dd5d/BB/src/main/java/com/ic/controller/ApplyErrandService.java#L42
+>
 > ##### 금액 가감 구현
 >
 > ##### Crawling : 경찰서 목록 조회
