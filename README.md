@@ -20,7 +20,7 @@
 > 지역 기반 심부름 서비스 부릉부름 (팀 프로젝트)
 > ![image](https://github.com/opencv256/Lee-Dong-Hun/assets/118248807/519a698f-72ef-41b4-9ac3-64973166902a)
 
->개발 기간: 2023.11.28 ~ 2023.12.13  
+> 개발 기간: 2023.11.28 ~ 2023.12.13  
   
 >기술 스택:  
 >Java / Css/ Html / Servlet / Js / Jsp / Mybatis
@@ -36,7 +36,9 @@
 >
 > 해당 mapper문을 실행할 수 있는 DAO문을 생성합니다
 >
+> https://github.com/2021-SMHRD-KDT-AI-15/BB/blob/b926fb5259b2c34f9696fac865508a4eb9f3dd5d/BB/src/main/java/com/ic/model/ApplyDAO.java#L78
 >
+> 다음으로 servlet문에 해당 내용을 추가해줍니다
 > ##### 금액 가감 구현
 >
 > ##### Crawling : 경찰서 목록 조회
