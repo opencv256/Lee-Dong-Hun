@@ -11,12 +11,12 @@
 ## :pushpin: Contact
 - 이메일: dhwewe@gmail.com
 - 블로그: 
-- 깃헙: [https://github.com/2021-SMHRD-KDT-AI-15/BB](https://github.com/opencv256/Lee-Dong-Hun)
+- 깃헙: (https://github.com/opencv256/Lee-Dong-Hun)
 
 </br>
 
 ## :pushpin: Projects
-### 1. [첫 번째 프로젝트](https://github.com/SMHRD-2021-KDT-BigData-19/dicogram.git)
+### 1. [첫 번째 프로젝트](https://github.com/2021-SMHRD-KDT-AI-15/BB)
 > 지역 기반 심부름 서비스 부릉부름 (팀 프로젝트)  
 >개발 기간: 2023.11.28 ~ 2023.12.13  
 >  
@@ -24,7 +24,7 @@
 >Java / Css/ Html / Servlet / Js / Jsp
 >apach tomcat/ Oracle / elipse / github / kakao api / python
 >  
->[프로젝트 상세 설명](https://github.com/SMHRD-2021-KDT-BigData-19/dicogram.git) 참고
+>[프로젝트 상세 설명](https://github.com/2021-SMHRD-KDT-AI-15/BB) 참고
 
 ---
 
