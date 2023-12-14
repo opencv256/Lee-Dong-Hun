@@ -4,7 +4,7 @@
 </br>
 
 ## :pushpin: Intro
-(여기에 자기 소개)
+개발자로 취업하고 싶은 26살 이동훈입니다
 
 </br>
 
@@ -25,7 +25,7 @@
 >apach tomcat/ Oracle / elipse / github / kakao api / python
 >  
 >[프로젝트 상세 설명](https://github.com/2021-SMHRD-KDT-AI-15/BB) 참고
-
+> 
 ---
 
 ### 2. [두 번째 프로젝트]()
