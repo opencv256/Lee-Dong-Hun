@@ -31,6 +31,7 @@
 > ##### 회원정보 구현
 >
 > 먼저 mybatis mapper문을 통해서 금액 차감문에 대한 sql문을 만들어줍니다
+>
 > https://github.com/2021-SMHRD-KDT-AI-15/BB/blob/b926fb5259b2c34f9696fac865508a4eb9f3dd5d/BB/src/main/java/com/ic/db/MemberMapper.xml#L50C1-L55C14
 >
 > 해당 mapper문을 실행할 수 있는 DAO문을 생성합니다
