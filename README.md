@@ -26,7 +26,13 @@
 >Java / Css/ Html / Servlet / Js / Jsp
 >apach tomcat/ Oracle / elipse / github / kakao api / python
 >
-> #### 팀원으로서 맡은 역할 : 회원정보 구현, 금액 가감 구현, 크롤링
+> #### 팀원으로서 맡은 역할 : Back-end, Crawling
+> #### Back-end
+> ##### 회원정보 구현
+>
+> ##### 금액 가감 구현
+>
+> ##### Crawling : 경찰서 목록 조회
 >[프로젝트 상세 설명](https://github.com/2021-SMHRD-KDT-AI-15/BB) 참고
 > 
 ---
